@@ -236,8 +236,22 @@ export const EXPERIENCE: ExpereinceItem[] = [
   },
 ];
 
-export const LIVE_URL = "https://westchain.org/";
+export const LIVE_URL = "https://www.westchain.org/";
 
-export const TITLE = "Blockchain | ML";
+export const TITLE = "Libra Tiger";
+
 export const DESCRIPTION =
   "Once Blockchain grabs ML's hands, Mirakuru will mostly happen.";
+
+export const manifest = {
+  type: "website",
+  url: "https://www.westchain.org/",
+  title: TITLE,
+  description: DESCRIPTION,
+  siteName: "Westchain",
+  images: [{
+    url: "https://www.westchain.org/banner.jpg",
+  }],
+}
+
+export const openGraph = { card: "libra tiger", site: "portfolio", creator: "@libraiger", "images": "https://www.westchain.org/banner.jpg" }
