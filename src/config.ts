@@ -78,6 +78,18 @@ export const EXPERIENCE: ExpereinceItem[] = [
     category: "Blockchain",
   },
   {
+    thumb: "/projects/cosabet.png",
+    role: "Solana Developer",
+    from: "04/2023",
+    isStar: true,
+    to: "10/2023",
+    description:
+      "",
+    stack: "Solana, Next.js, Tailwind, Styled-components",
+    url: "https://www.cosabet.com/",
+    category: "Blockchain",
+  },
+  {
     thumb: "/projects/waxel.png",
     role: "Blockchain Developer",
     from: "04/2023",
