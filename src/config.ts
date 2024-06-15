@@ -84,7 +84,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
     isStar: true,
     to: "10/2023",
     description:
-      "",
+      "Developing a Solana-based betting casino presents complex challenges, including ensuring scalable transaction throughput, securing smart contracts, integrating real-time data with decentralized oracles, maintaining regulatory compliance while protecting user anonymity, and providing verifiable random number generation for fair gameplay.",
     stack: "Solana, Next.js, Tailwind, Styled-components",
     url: "https://www.cosabet.com/",
     category: "Blockchain",
