@@ -17,18 +17,18 @@ export const SEO_DOCUMENT = [
   },
 ];
 export const EXPERIENCE: ExpereinceItem[] = [
-  {
-    thumb: "/projects/deadbear.png",
-    role: "Web3 Developer",
-    from: "04/2024",
-    isStar: true,
-    to: "05/2024",
-    description:
-      "$SCUM burning dashboard",
-    stack: "React, Node.js, MongoDB, Solana, Web3.js",
-    url: "https://www.deadbearinc.agency/",
-    category: "Blockchain",
-  },
+  // {
+  //   thumb: "/projects/deadbear.png",
+  //   role: "Web3 Developer",
+  //   from: "04/2024",
+  //   isStar: true,
+  //   to: "05/2024",
+  //   description:
+  //     "$SCUM burning dashboard",
+  //   stack: "React, Node.js, MongoDB, Solana, Web3.js",
+  //   url: "https://www.deadbearinc.agency/",
+  //   category: "Blockchain",
+  // },
   {
     thumb: "/projects/runeSeek.png",
     role: "Bitcoin Developer",
