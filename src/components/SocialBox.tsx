@@ -29,7 +29,7 @@ const SocialBox: FC = () => {
           <DiscordHIcon />
         </div>
       </Link>
-      <Link href="https://t.me/lovely0912_eth" passHref target="_blank">
+      <Link href="https://t.me/lovely_libra777" passHref target="_blank">
         <div className="grid w-10 h-10 p-2 rounded-md place-content-center shadow-item dark:shadow-none dark:bg-white">
           <TelegramHIcon />
         </div>
