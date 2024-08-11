@@ -186,6 +186,18 @@ export const EXPERIENCE: ExpereinceItem[] = [
     category: "ML",
   },
   {
+    thumb: "/projects/forevervoices.png",
+    role: "ML Engineer",
+    from: "04/2023",
+    isStar: true,
+    to: "10/2023",
+    description:
+      "Crafting infinity,one voice at a time. This is a project that converts voices using AI.",
+    stack: "Speech-to-Text, GCP, Python, React, Tailwind CSS",
+    url: "https://forevervoices.com/",
+    category: "ML",
+  },
+  {
     thumb: "/projects/mandy.png",
     role: "ML Engineer",
     from: "04/2023",
