@@ -17,30 +17,42 @@ export const SEO_DOCUMENT = [
   },
 ];
 export const EXPERIENCE: ExpereinceItem[] = [
-  // {
-  //   thumb: "/projects/deadbear.png",
-  //   role: "Web3 Developer",
-  //   from: "04/2024",
-  //   isStar: true,
-  //   to: "05/2024",
-  //   description:
-  //     "$SCUM burning dashboard",
-  //   stack: "React, Node.js, MongoDB, Solana, Web3.js",
-  //   url: "https://www.deadbearinc.agency/",
-  //   category: "Blockchain",
-  // },
   {
-    thumb: "/projects/runeSeek.png",
-    role: "Bitcoin Developer",
-    from: "04/2023",
+    thumb: "/projects/rune_guardians.png",
+    role: "Fullstack Bitcoin Developer",
+    from: "04/2024",
     isStar: true,
-    to: "10/2023",
+    to: "05/2024",
     description:
-      "In these project I encountered challenges such as implementing a dynamic grid size and managing increasing game complexity, I solved them by optimizing the game's backend architecture for scalability and introducing efficient algorithms to handle grid and gameplay updates dynamically.",
-    stack: "React, Next.js, MongoDB, Bitcoin",
-    url: "https://www.runeseek.com/",
+      "Rune marketplace, Raffle and Auction tools, Map game",
+    stack: "Bitcoin, Rune, Inscription, React, Next.js, Tailwind CSS, MongoDB",
+    url: "https://dashboard.theruneguardians.com/",
     category: "Blockchain",
   },
+  {
+    thumb: "/projects/ordinal_inscription.png",
+    role: "Bitcoin Backend Developer",
+    from: "04/2024",
+    isStar: true,
+    to: "05/2024",
+    description:
+      "Ordinal inscription service that folks https://www.luminex.io/ordinals/mint",
+    stack: "Bitcoin, Inscription, React, Next.js, Tailwind CSS, MongoDB",
+    url: "https://bitmap-community-dev.vercel.app/inscribe",
+    category: "Blockchain",
+  },
+  // {
+  //   thumb: "/projects/runeSeek.png",
+  //   role: "Bitcoin Developer",
+  //   from: "04/2023",
+  //   isStar: true,
+  //   to: "10/2023",
+  //   description:
+  //     "In these project I encountered challenges such as implementing a dynamic grid size and managing increasing game complexity, I solved them by optimizing the game's backend architecture for scalability and introducing efficient algorithms to handle grid and gameplay updates dynamically.",
+  //   stack: "React, Next.js, MongoDB, Bitcoin",
+  //   url: "https://www.runeseek.com/",
+  //   category: "Blockchain",
+  // },
   {
     thumb: "/projects/multisig.png",
     role: "Bitcoin Developer",
@@ -75,6 +87,30 @@ export const EXPERIENCE: ExpereinceItem[] = [
       "At Satoshi Punks, we are thrilled to open up a world of opportunities with NFTs. We view NFTs as a transformative advancement in how digital assets are owned and traded, and we're committed to guiding you through this cutting-edge landscape with expertise and assurance.",
     stack: "React, MUI, Redux, Ordinal, Bitcoin",
     url: "https://satoshipunks.art/",
+    category: "Blockchain",
+  },
+  {
+    thumb: "/projects/raydium_bot.png",
+    role: "Bot Developer",
+    from: "04/2023",
+    isStar: true,
+    to: "10/2023",
+    description:
+      "Raydium Trading bot supports all pools in Raydium",
+    stack: "Solana, Telegram, React, Node.js",
+    url: "https://t.me/raydium_super_bot",
+    category: "Blockchain",
+  },
+  {
+    thumb: "/projects/eth_p2e_tg_game.png",
+    role: "Bot Developer",
+    from: "04/2023",
+    isStar: true,
+    to: "10/2023",
+    description:
+      "99% of crypto investors do not participate in the ecosystem, only speculate on price action, and it is hard for a project to grow to its potential. This is why we think by creating multiple revenue streams, 1 of a kind games, and incentives to implement a working strategy that will propel this project to do great things in the crypto space.",
+    stack: "Ethereum, Telegram, React, Node.js",
+    url: "https://t.me/revolver_p2e_bot",
     category: "Blockchain",
   },
   {
