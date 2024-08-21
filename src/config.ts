@@ -17,18 +17,18 @@ export const SEO_DOCUMENT = [
   },
 ];
 export const EXPERIENCE: ExpereinceItem[] = [
-  {
-    thumb: "/projects/rune_guardians.png",
-    role: "Fullstack Bitcoin Developer",
-    from: "04/2024",
-    isStar: true,
-    to: "05/2024",
-    description:
-      "Rune marketplace, Raffle and Auction tools, Map game",
-    stack: "Bitcoin, Rune, Inscription, React, Next.js, Tailwind CSS, MongoDB",
-    url: "https://dashboard.theruneguardians.com/",
-    category: "Blockchain",
-  },
+  // {
+  //   thumb: "/projects/rune_guardians.png",
+  //   role: "Fullstack Bitcoin Developer",
+  //   from: "04/2024",
+  //   isStar: true,
+  //   to: "05/2024",
+  //   description:
+  //     "Rune marketplace, Raffle and Auction tools, Map game",
+  //   stack: "Bitcoin, Rune, Inscription, React, Next.js, Tailwind CSS, MongoDB",
+  //   url: "https://dashboard.theruneguardians.com/",
+  //   category: "Blockchain",
+  // },
   {
     thumb: "/projects/ordinal_inscription.png",
     role: "Bitcoin Backend Developer",
