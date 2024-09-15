@@ -10,12 +10,12 @@ import {
 const SocialBox: FC = () => {
   return (
     <div className="flex flex-wrap gap-4 mt-4">
-      <Link href="https://twitter.com/libraiger" passHref target="_blank">
+      <Link href="https://twitter.com/degencap777" passHref target="_blank">
         <div className="grid w-10 h-10 p-2 rounded-md place-content-center shadow-item dark:shadow-none dark:bg-white">
           <TwitterIcon />
         </div>
       </Link>
-      <Link href="https://github.com/libraiger" passHref target="_blank">
+      <Link href="https://github.com/degencap777" passHref target="_blank">
         <div className="grid w-10 h-10 p-2 rounded-md place-content-center shadow-item dark:shadow-none dark:bg-white">
           <GithubIcon />
         </div>
@@ -29,7 +29,7 @@ const SocialBox: FC = () => {
           <DiscordHIcon />
         </div>
       </Link>
-      <Link href="https://t.me/lovely_libra777" passHref target="_blank">
+      <Link href="https://t.me/degencap777" passHref target="_blank">
         <div className="grid w-10 h-10 p-2 rounded-md place-content-center shadow-item dark:shadow-none dark:bg-white">
           <TelegramHIcon />
         </div>

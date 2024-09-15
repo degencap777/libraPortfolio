@@ -26,13 +26,13 @@ const AboutMe: FC = () => {
             WELCOME TO MIRAKURU
           </p>
           <h2 className="font-bold text-[28px] md:text-[32px] py-2.5 text-gray-800 dark:text-white">
-            This is <span className="text-purple-800 dark:text-purple-500">{"Libra Tiger"}</span>, &nbsp;<span></span>&nbsp;
+            This is <span className="text-purple-800 dark:text-purple-500">{"Degen Capricorn"}</span>, &nbsp;<span></span>&nbsp;
             <Type />
           </h2>
           <h2 className="text-gray-800 dark:text-gray-300 font-bold text-xl w-full flex items-center gap-2">
             just call me{" "}
             <span className="text-purple-800 dark:text-purple-500 font-bold flex items-center gap-1">
-              Libraiger 
+              Degencap 
             </span>
           </h2>
           {/*           <div className="text-white font-bold text-md bg-purple-700 inline-block py-0.5 px-4 rounded-3xl my-3">
@@ -57,45 +57,21 @@ const AboutMe: FC = () => {
             <div className="flex flex-wrap">
               <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="React"
+                title="Rust"
+              >
+                <RustIcon />
+              </div>
+              <div
+                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
+                title="Python"
               >
                 <PythonIcon />
               </div>
               <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Nextjs"
-              >
-                <ReactIcon />
-              </div>
-              <div
-                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Nuxtjs"
-              >
-                <NextjsIcon />
-              </div>
-              <div
-                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Ethereum"
+                title="AI"
               >
                 <AIIcon />
-              </div>
-              <div
-                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Solana"
-              >
-                <BitcoinIcon />
-              </div>
-              <div
-                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Rust"
-              >
-                <EthereumIcon />
-              </div>
-              <div
-                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Solidity"
-              >
-                <SolanaIcon />
               </div>
               <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
@@ -105,15 +81,39 @@ const AboutMe: FC = () => {
               </div>
               <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Web3"
+                title="Bitcoin"
+              >
+                <BitcoinIcon />
+              </div>
+              <div
+                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
+                title="Ethereum"
+              >
+                <EthereumIcon />
+              </div>
+              <div
+                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
+                title="Solana"
+              >
+                <SolanaIcon />
+              </div>
+              <div
+                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
+                title="Solidity"
               >
                 <SolidityIcon />
               </div>
               <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
-                title="Web3"
+                title="React"
               >
-                <RustIcon />
+                <ReactIcon />
+              </div>
+              <div
+                className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
+                title="Nextjs"
+              >
+                <NextjsIcon />
               </div>
             </div>
           </div>

@@ -1,6 +1,6 @@
 import { ExpereinceItem } from "./utils/types";
 
-export const MYNAME = "Libraiger";
+export const MYNAME = "Degencap";
 export const JAPANNAME = "";
 export const SEO_DOCUMENT = [
   {
@@ -149,18 +149,18 @@ export const EXPERIENCE: ExpereinceItem[] = [
     url: "https://livesofasuna.com/",
     category: "Blockchain",
   },
-  {
-    thumb: "/projects/cryptoLegend.png",
-    role: "Blockchain Developer",
-    from: "04/2023",
-    isStar: true,
-    to: "10/2023",
-    description:
-      "An innovative Play-To-Earn NFT game on the Binance Smart Chain, featuring minting, hunting, trading on an NFT marketplace, a smart claim system, and reincarnation capabilities.",
-    stack: "Node.js, Typescript, Web3.js, SEO",
-    url: "https://cryptolegions.app/",
-    category: "Blockchain",
-  },
+  // {
+  //   thumb: "/projects/cryptoLegend.png",
+  //   role: "Blockchain Developer",
+  //   from: "04/2023",
+  //   isStar: true,
+  //   to: "10/2023",
+  //   description:
+  //     "An innovative Play-To-Earn NFT game on the Binance Smart Chain, featuring minting, hunting, trading on an NFT marketplace, a smart claim system, and reincarnation capabilities.",
+  //   stack: "Node.js, Typescript, Web3.js, SEO",
+  //   url: "https://cryptolegions.app/",
+  //   category: "Blockchain",
+  // },
   {
     thumb: "/projects/storyfile.png",
     role: "Python Developer",
@@ -267,7 +267,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
     description:
       "Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. This topic talks about building a model which can detect an emotion from an image.",
     stack: "Data gathering and augmentation, Model building, Training, Testing",
-    url: "https://github.com/libraiger/troyzBE",
+    url: "https://github.com/degencap777/troyzBE",
     category: "ML",
   },
   {
@@ -279,7 +279,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
     description:
       "Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. This topic talks about building a model which can detect an emotion from an image.",
     stack: "Data gathering and augmentation, Model building, Training, Testing",
-    url: "https://github.com/libraiger/emotionDetect",
+    url: "https://github.com/degencap777/emotionDetect",
     category: "ML",
   },
   {
@@ -291,14 +291,14 @@ export const EXPERIENCE: ExpereinceItem[] = [
     description:
       "This project is an approach to the development of plant disease recognition model, based on leaf image classification, by the use of deep convolutional networks. The developed model is able to recognize 38 different types of plant diseases out of of 14 different plants with the ability to distinguish plant leaves from their surroundings.",
     stack: "CNN, Tensorflow, Flask, Python",
-    url: "https://github.com/libraiger/plantAI",
+    url: "https://github.com/degencap777/plantAI",
     category: "ML",
   },
 ];
 
 export const LIVE_URL = "https://www.westchain.org/";
 
-export const TITLE = "Libra Tiger";
+export const TITLE = "Degen Capricorn";
 
 export const DESCRIPTION =
   "Once Blockchain grabs ML's hands, Mirakuru will mostly happen.";
@@ -314,4 +314,4 @@ export const manifest = {
   }],
 }
 
-export const openGraph = { card: "libra tiger", site: "portfolio", creator: "@libraiger", "images": "https://www.westchain.org/banner.jpg" }
+export const openGraph = { card: "degen capricorn", site: "portfolio", creator: "@degencap777", "images": "https://www.westchain.org/banner.jpg" }
