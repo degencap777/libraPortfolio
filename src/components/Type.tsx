@@ -5,7 +5,7 @@ const Type: FC = () => {
   return (
     <Typewriter
       words={[
-        "ML Engineer",
+        "AI/ML Engineer",
         "Bitcoin Developer",
         "Solana Bot Developer",
         "Fullstack Developer",

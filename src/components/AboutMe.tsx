@@ -1,14 +1,11 @@
 import Type from "./Type";
 import {
   BitcoinIcon,
-  EthereumIcon,
   NextjsIcon,
-  NuxtjsIcon,
   PythonIcon,
   ReactIcon,
   RustIcon,
   SolanaIcon,
-  SolidityIcon,
   Web3Icon,
   AIIcon,
 } from "./SvgIcons";
@@ -41,7 +38,7 @@ const AboutMe: FC = () => {
           <p className="text-[14px] md:text-[16px] text-gray-800 dark:text-gray-200 font-medium max-w-[600px]">
             {/* Results-driven Frontend and Web3 Developer with{" "} */}
             <span className="text-purple-800 dark:text-purple-500 font-bold">
-              <span>Make AI 'n' Blockchain Great Again</span>
+              <span>Make AI &apos;n&apos; Blockchain Great Again</span>
             </span>{" "}
             {/* of experience in frontend development and expertise in{" "}
             <span className="text-purple-800 dark:text-purple-500 font-bold">

@@ -115,7 +115,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   },
   {
     thumb: "/projects/forevervoices.png",
-    role: "ML Engineer",
+    role: "AI/ML Engineer",
     from: "04/2023",
     isStar: true,
     to: "10/2023",
@@ -127,7 +127,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   },
   // {
   //   thumb: "/projects/mandy.png",
-  //   role: "ML Engineer",
+  //   role: "AI/ML Engineer",
   //   from: "04/2023",
   //   isStar: true,
   //   to: "10/2023",
@@ -151,7 +151,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   },
   // {
   //   thumb: "/projects/eurocupid.png",
-  //   role: "ML Engineer",
+  //   role: "AI/ML Engineer",
   //   from: "04/2023",
   //   isStar: true,
   //   to: "10/2023",
@@ -163,7 +163,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   // },
   {
     thumb: "/projects/cipia.jpg",
-    role: "ML Engineer",
+    role: "AI/ML Engineer",
     from: "04/2023",
     isStar: true,
     to: "10/2023",
@@ -175,7 +175,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   },
   // {
   //   thumb: "/projects/troyz.png",
-  //   role: "ML Engineer",
+  //   role: "AI/ML Engineer",
   //   from: "04/2023",
   //   isStar: true,
   //   to: "10/2023",
@@ -187,7 +187,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   // },
   {
     thumb: "/projects/clarityAI.gif",
-    role: "ML Engineer",
+    role: "AI/ML Engineer",
     from: "04/2023",
     isStar: true,
     to: "10/2023",
@@ -199,7 +199,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   },
   // {
   //   thumb: "/projects/faceRecognition.jpeg",
-  //   role: "ML Engineer",
+  //   role: "AI/ML Engineer",
   //   from: "04/2023",
   //   isStar: true,
   //   to: "10/2023",
@@ -211,7 +211,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
   // },
   // {
   //   thumb: "/projects/plantAI.gif",
-  //   role: "ML Engineer",
+  //   role: "AI/ML Engineer",
   //   from: "04/2023",
   //   isStar: true,
   //   to: "10/2023",
