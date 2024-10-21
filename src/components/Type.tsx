@@ -6,7 +6,9 @@ const Type: FC = () => {
     <Typewriter
       words={[
         "ML Engineer",
-        "Web3 Engineer",
+        "Bitcoin Developer",
+        "Solana Bot Developer",
+        "Fullstack Developer",
       ]}
       loop={0}
       cursor

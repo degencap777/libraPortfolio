@@ -16,8 +16,9 @@ const Experience: FC = () => {
         <div className="flex flex-wrap justify-center my-5">
           {[
             "all",
-            "Blockchain",
-            "ML",
+            "Bitcoin",
+            "Solana",
+            "AI",
           ].map((item, key) => (
             <button
               key={key}

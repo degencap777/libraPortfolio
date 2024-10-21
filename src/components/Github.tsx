@@ -6,7 +6,7 @@ const Footer: FC = () => {
   return (
     <div className="flex items-center justify-center py-20 lg:py-[20px] flex-col">
       <SectionTitle>
-        GITHUB <span className="highlight"></span>
+        Work History <span className="highlight"></span>
       </SectionTitle>
       <a
         href="https://github.com/degencap777"
@@ -15,11 +15,12 @@ const Footer: FC = () => {
         className="text-purple-800 dark:text-purple-500 font-bold"
         style={{ textAlign: "center", padding: "10px 0" }}
       >
+        https://github.com/degencap777
       </a>
       <GitHubCalendar
         username="degencap777"
-        blockSize={15}
-        blockMargin={5}
+        blockSize={17}
+        blockMargin={1}
         fontSize={12}
       />
     </div>

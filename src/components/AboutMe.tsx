@@ -26,7 +26,7 @@ const AboutMe: FC = () => {
             WELCOME TO MIRAKURU
           </p>
           <h2 className="font-bold text-[28px] md:text-[32px] py-2.5 text-gray-800 dark:text-white">
-            This is <span className="text-purple-800 dark:text-purple-500">{"Degen Capricorn"}</span>, &nbsp;<span></span>&nbsp;
+            This is <span className="text-purple-800 dark:text-purple-500">{"Capricorn"}</span>, &nbsp;<span></span>&nbsp;
             <Type />
           </h2>
           <h2 className="text-gray-800 dark:text-gray-300 font-bold text-xl w-full flex items-center gap-2">
@@ -41,7 +41,7 @@ const AboutMe: FC = () => {
           <p className="text-[14px] md:text-[16px] text-gray-800 dark:text-gray-200 font-medium max-w-[600px]">
             {/* Results-driven Frontend and Web3 Developer with{" "} */}
             <span className="text-purple-800 dark:text-purple-500 font-bold">
-              <span>Why Mirakuru? Because it&apos;s mostly not happen.</span>
+              <span>Make AI 'n' Blockchain Great Again</span>
             </span>{" "}
             {/* of experience in frontend development and expertise in{" "}
             <span className="text-purple-800 dark:text-purple-500 font-bold">
@@ -85,24 +85,24 @@ const AboutMe: FC = () => {
               >
                 <BitcoinIcon />
               </div>
-              <div
+              {/* <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
                 title="Ethereum"
               >
                 <EthereumIcon />
-              </div>
+              </div> */}
               <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
                 title="Solana"
               >
                 <SolanaIcon />
               </div>
-              <div
+              {/* <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
                 title="Solidity"
               >
                 <SolidityIcon />
-              </div>
+              </div> */}
               <div
                 className="w-10 h-10 flex items-center justify-center rounded-[4px] mr-2.5 card-shadow mb-2.5 shadow-item dark:bg-white dark:shadow-none"
                 title="React"
