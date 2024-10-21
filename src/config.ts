@@ -225,7 +225,7 @@ export const EXPERIENCE: ExpereinceItem[] = [
 
 export const LIVE_URL = "https://www.westchain.org/";
 
-export const TITLE = "Capricorn";
+export const TITLE = "Degen Capricorn";
 
 export const DESCRIPTION =
   "Make AI 'n' Blockchain Great Again";
